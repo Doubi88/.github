@@ -1,4 +1,3 @@
-# This is my default files repository
 ## Imprint / Contact
 Tobias Waßmundt
 c/o COCENTER
